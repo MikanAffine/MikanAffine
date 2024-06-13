@@ -1,7 +1,7 @@
 # Hi there 👋
 
-![KouyouX's GitHub stats](https://github-readme-stats.vercel.app/api?username=KouyouX&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KouyouX&layout=compact)
+![KouyouX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikanAffine&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikanAffine&layout=compact)
 
 ## About me
 val MochizukiHaruka by lazy { programming() }
@@ -13,6 +13,6 @@ Mainly program in java, kotlin and python. Interested in lua, c/cpp, rust and go
 amateur compiler developer
 
 ## Contact
-- Email: mh@owari.org
-- Github: [@KouyouX](https://github.com/KouyouX/) 
+- Email: i@mikanaffine.com
+- Github: [@MikanAffine](https://github.com/MikanAffine/) 
 - Bilibili: [@速食冻橘](https://space.bilibili.com/65806374)
