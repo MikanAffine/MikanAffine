@@ -4,13 +4,11 @@
 [![MikanAffine's GitHub Toplang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MikanAffine&show_icons=true&theme=radical)](https://github.com/MikanAffine)
 
 ## About me
-val MochizukiHaruka by lazy { programming() }
+I'm Mochizuki Haruka, an undergraduate in Xi'an Jiaotong University.
 
-I'm not a full-time programmer, just a student who is interested in programming and ACG.  
+Mainly code in kotlin/java, c/cpp, python, rust, moonbit, interested in go, dlang and c#.
 
-Mainly program in java, kotlin and python. Interested in lua, c/cpp, rust and go.
-
-amateur compiler developer
+Amateur compiler developer (7 yrs exp)
 
 ## Contact
 - Email: i@mikanaffine.com
