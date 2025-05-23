@@ -12,6 +12,6 @@ Mainly code in Kotlin/Java, Rust, C/C++, Python, JavaScript/TypeScript, C#, Gola
 Programming Language Design & Implementation (~7 Years experience)
 
 ## Contact
-- Email: <mikanaffine@outlook.com> or <i@mikanaffine.com>
+- Email: <mikanaffine@outlook.com>
 - Github: [@MikanAffine](https://github.com/MikanAffine/) 
 - Bilibili: [@速食冻橘](https://space.bilibili.com/65806374)
