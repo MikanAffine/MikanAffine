@@ -1,17 +1,37 @@
 # Hi there 👋
 
-[![MikanAffine's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikanAffine&show_icons=true&theme=radical)](https://github.com/MikanAffine)
-[![MikanAffine's GitHub Toplang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MikanAffine&show_icons=true&theme=radical)](https://github.com/MikanAffine)
+### About me
 
-## About me
-Xie Qinghe, undergraduate @ Xi'an Jiaotong University.
+📖 **Xi'an Jiaotong University, Class of 2024, Undergraduate majoring Software Engineering.**
 
-Mainly code in Kotlin/Java, Rust, C/C++, Python, JavaScript/TypeScript, C#, Golang.
+💻 Compiler Technologies Enthusiast | Open Source Contributor
 
-## Interested in
-Programming Language Design & Implementation (~7 Years experience)
+⚙️ Mainly interested in **Programming Languages Design & Implementation and Runtime Supporting Systems** ( ~7 years experience )
 
-## Contact
-- Email: <mikanaffine@outlook.com>
-- Github: [@MikanAffine](https://github.com/MikanAffine/) 
-- Bilibili: [@速食冻橘](https://space.bilibili.com/65806374)
+---
+
+### 🚀 Tech Stack
+- **Languages**: Java, Kotlin, Python, C, C++, Rust, Javascript, C#, Go
+
+---
+
+### 📂 Projects
+- 🧩 [CSCC / Huawei Bisheng Compiler Competition Project](https://github.com/XJTU-Compiler-25/sysy-compiler/)
+- 🔗 [Girls Band Compiler Tutorials](https://gbc.xq.gl/)
+
+---
+
+### 📫 Connect
+- 🌐 Blog: [your-blog-link.com](#)
+- 💼 LinkedIn: [your-linkedin](#)
+- ✉️ Email: <mikanaffine@outlook.com>
+
+---
+
+[MikanAffine](https://github.com/MikanAffine) here.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MikanAffine&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikanAffine&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
