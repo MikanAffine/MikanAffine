@@ -24,7 +24,6 @@
 ### 📫 Social
 - ✉️ Email: <mikanaffine@outlook.com>
 - 💼 Zhihu: [@速食冻橘](https://www.zhihu.com/people/nyasroryo)
-- 🌐 Bilibili: [@速食冻橘](https://space.bilibili.com/65806374)
 
 ---
 
